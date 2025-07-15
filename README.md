@@ -66,6 +66,7 @@ This project demonstrates a modern Data Lakehouse architecture using various Azu
 ##  👨‍💻 Author
 
 Pushkar Kulkarni
+
 Data Engineer Enthusiast | Azure | PySpark | SQL | Power BI
 
     
