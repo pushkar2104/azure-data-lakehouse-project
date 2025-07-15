@@ -1,4 +1,4 @@
-##🚀 Azure Data Engineering Project: End-to-End Lakehouse Pipeline
+#🚀 Azure Data Engineering Project: End-to-End Lakehouse Pipeline
 
 🔧 Overview
 This project demonstrates a modern Data Lakehouse architecture using various Azure services to ingest, transform, store, and visualize data efficiently.
