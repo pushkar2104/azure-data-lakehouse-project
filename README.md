@@ -6,9 +6,13 @@ This project demonstrates a modern Data Lakehouse architecture using various Azu
 ## 🔧 Technologies Used
 
 📍 Source: On-Prem SQL Server
+
 📍 Destination: Azure Synapse Analytics + Power BI
+
 📍 Transformation: Azure Databricks using PySpark
+
 📍 Storage: Azure Data Lake Gen2 with Bronze, Silver, and Gold layers
+
 📍 Security: Azure Key Vault for credential management
 
 
